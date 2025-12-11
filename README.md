@@ -14,21 +14,21 @@ The project uses data from the **CitieSHealth Barcelona Panel Study (2020–2021
 ---
 
 ## 📂 Contents
-### **1. R Scripts (`/R/`)**
+### **1. R Scripts **
 - **01_data_preparation.R** – imports Excel dataset, cleans variables, handles missing data.
 - **02_descriptive_stats.R** – computes mean, SD, 95% CI by alcohol groups.
 - **03_regression_models.R** – runs stress × alcohol interaction model.
 - **04_figures.R** – generates Figures 1–4 for the poster.
 - **05_pm25_analysis.R** – includes PM2.5 (pm25bcn) environmental exposure.
 
-### **2. Figures (`/figures/`)**
+### **2. Figures**
 - Figure 1: Mean sleep & stress by alcohol group  
 - Figure 2: Boxplot of sleep by alcohol consumption  
 - Figure 3: Interaction (stress × alcohol)  
 - Figure 4: Regression output  
 - Figure 5: Sleep across PM2.5 exposure levels  
 
-### **3. Poster (`/poster/`)**
+### **3. Poster **
 - Final A3 scientific poster summarizing the study.
 
 ---
