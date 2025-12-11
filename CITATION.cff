@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Psychosocial and Environmental Determinants of Sleep Quality"
+authors:
+  - family-names: "Das"
+    given-names: "Dipankar"
+date-released: "2025-01-01"
+license: "MIT"
+message: "If you use this project, please cite it as: Das, D. (2025). Biostatistics coursework project on determinants of sleep quality."
