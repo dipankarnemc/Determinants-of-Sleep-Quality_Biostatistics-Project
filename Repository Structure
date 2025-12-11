@@ -1,0 +1,25 @@
+Determinants-of-Sleep-Quality/
+│
+├── README.md
+├── data/
+│   └── README_data.md
+│
+├── R/
+│   ├── 01_data_preparation.R
+│   ├── 02_descriptive_analysis.R
+│   ├── 03_regression_models.R
+│   ├── 04_figures.R
+│   └── 00_dependencies.R
+│
+├── figures/
+│   ├── figure1_sleep_stress_alcohol.png
+│   ├── figure2_boxplot_sleep_alcohol.png
+│   ├── figure3_interaction_stress_alcohol.png
+│   └── figure4_sleep_pm25.png
+│
+├── poster/
+│   └── Poster_DAS_Dipankar_Determinants_of_Sleep_Quality.pptx
+│
+└── .github/
+    └── workflows/
+        └── render_figures.yml
